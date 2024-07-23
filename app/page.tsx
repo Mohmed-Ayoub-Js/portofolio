@@ -2,7 +2,7 @@ import Hero from "@/components/Hero";
 import Aboutme from "@/components/global/AboutMe";
 import Footer from "@/components/global/Footer";
 import Header from "@/components/global/Header";
-import { Skills } from "@/components/global/Skills";
+import  Skills  from "@/components/global/Skills";
 
 export default function Home() {
   return (

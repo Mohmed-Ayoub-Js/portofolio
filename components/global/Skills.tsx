@@ -2,7 +2,7 @@
 import React from "react";
 import { HeroParallax } from "@/components/ui/hero-parallax";
 
-export function Skills() {
+export default function Skills() {
   return <HeroParallax products={products} />;
 }
 export const products = [
